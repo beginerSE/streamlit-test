@@ -1,1 +1,4 @@
 joblib
+matplotlib==3.9.0
+scikit-learn==1.2.2
+openai==0.28
